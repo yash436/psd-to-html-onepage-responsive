@@ -7,5 +7,6 @@
 - Responsive Carousel
 - Includes a reset.css file
 - Used both downloaded as well as online fonts
+- Sticky navbar after some scrolling
 
 Can't upload PSD since its too large (~70MB) so uploading it as an image file.
